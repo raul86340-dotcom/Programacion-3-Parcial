@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "GigabitEthernet0/0",
+        "ip": "10.10.20.66",
+        "mascara": "255.255.255.0"
+    },
+    {
+        "nombre": "Loopback0",
+        "ip": "10.255.0.1",
+        "mascara": "255.255.255.255"
+    },
+    {
+        "nombre": "Loopback75",
+        "ip": "75.75.75.75",
+        "mascara": "255.255.255.0"
+    },
+    {
+        "nombre": "Loopback95",
+        "ip": "10.99.99.95",
+        "mascara": "255.255.255.0"
+    }
+]
